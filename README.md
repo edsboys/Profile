@@ -22,7 +22,7 @@ I build practical web stuff with HTML, CSS and JavaScript, write backend logic i
 ### 🤝 I’m looking for help with
 - Advanced machine learning implementation for real datasets  
 - OCI generative AI professional path guidance (I am currently learning this)  
-- Best practises for productionizing small AI models
+- Best practices for productionizing small AI models
 
 ---
 
@@ -48,16 +48,35 @@ HTML, CSS, JavaScript, PHP, Java, Visual Basic, MySQL, Oracle SQL, Java file han
 
 ---
 
-### 👨‍💻 All of my projects are available at
-`https://github.com/edsboys`  
-Here are the projects I am actively working on or have built, with short notes
-- Facial recognition system, prototype and experiments (repo: `edsboys/facial-recognition-system`)  
-- Laravel login rebuild and auth walkthrough (repo: `edsboys/laravel-login-rebuild`)  
-- Fraud detection and document processing for Financial Sector, BA assignment (repo: `edsboys/fraud-detection-doc-processing`)  
-- Evetech database design group project, sales and collections (repo: `edsboys/evetech-db-design`)  
-- Java GUI student records and PDDA property management assignments (repo: `edsboys/java-gui-assignments`)
+## 🚀 Featured Projects
 
-Portfolio site is in progress, will link here when ready
+### 🎮 Flappy Bird Clone
+[![GitHub stars](https://img.shields.io/github/stars/edsboys/Flappy-Bird?style=social)](https://github.com/edsboys/Flappy-Bird)
+[![GitHub forks](https://img.shields.io/github/forks/edsboys/Flappy-Bird?style=social)](https://github.com/edsboys/Flappy-Bird)
+
+A simple yet challenging arcade-style Java game where you control a bird to navigate obstacles with responsive tap mechanics. Features randomised obstacle generation for endless replayability.
+
+🔗 **Repo:** [github.com/edsboys/Flappy-Bird](https://github.com/edsboys/Flappy-Bird)
+
+---
+
+### 🏥 VUT Clinic System
+[![GitHub stars](https://img.shields.io/github/stars/edsboys/vut-clinic-system?style=social)](https://github.com/edsboys/vut-clinic-system)
+[![GitHub forks](https://img.shields.io/github/forks/edsboys/vut-clinic-system?style=social)](https://github.com/edsboys/vut-clinic-system)
+
+A modern Laravel-based healthcare management system for the VUT Campus Clinic. Includes appointment booking, service info, and emergency contact details with a responsive Bootstrap design.
+
+🔗 **Repo:** [github.com/edsboys/vut-clinic-system](https://github.com/edsboys/vut-clinic-system)
+
+---
+
+### 🐍 Classic Snake Game
+[![GitHub stars](https://img.shields.io/github/stars/edsboys/Classic-Snake-Game?style=social)](https://github.com/edsboys/Classic-Snake-Game)
+[![GitHub forks](https://img.shields.io/github/forks/edsboys/Classic-Snake-Game?style=social)](https://github.com/edsboys/Classic-Snake-Game)
+
+A retro Snake game built in Java with Swing GUI. Progressive difficulty, dark mode unlock at 50 apples, smooth controls, and real-time scoring.
+
+🔗 **Repo:** [github.com/edsboys/Classic-Snake-Game](https://github.com/edsboys/Classic-Snake-Game)
 
 ---
 
@@ -77,13 +96,10 @@ Databases
 - MySQL, Oracle SQL
 
 Testing and Java specifics
-- JUnit basics, Java file handling and serialization
+- JUnit basics, Java file handling and serialisation
 
 Other tools
 - Git, GitHub, VS Code, IntelliJ (for Java)
-
-Quick real talk
-- I do not claim experience with React, Spring Boot, Node.js, MongoDB or cloud platforms like Azure or Firebase unless I explicitly say so. No fake flexing.
 
 ---
 
