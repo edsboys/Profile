@@ -1,50 +1,18 @@
 # Hi 👋, I'm Mpho Matseka
 
-## Passionate frontend developer and final year Information Technology student at VUT
-I build practical web stuff with HTML, CSS and JavaScript, write backend logic in PHP and Java, and I am learning Python. I like applying AI ideas to real problems, especially fraud detection and document processing. I also make content raising awareness about Ehlers-Danlos Syndrome on social media.
+## Passionate Frontend Developer & Final-Year IT Student at VUT
+I build practical web apps with HTML, CSS, and JavaScript, write backend logic in PHP and Java, and I’m learning Python.  
+I enjoy applying AI techniques to real-world problems, particularly in areas such as fraud detection and document processing.  
+I also raise awareness about Ehlers-Danlos Syndrome on social media.
 
----
-
-### 🔭 I’m currently working on
-- Facial recognition system (research and prototype)  
-- Rebuilding login and auth for a Laravel project from scratch  
-- Financial Sector project, Fraud Detection and Document Processing, university assignment  
-
----
-
-### 👯 I’m looking to collaborate on
-- Practical frontend projects and small web apps  
-- AI projects focused on document processing or fraud detection  
-- University projects that need Java, PHP or SQL expertise
-
----
-
-### 🤝 I’m looking for help with
-- Advanced machine learning implementation for real datasets  
-- OCI generative AI professional path guidance (I am currently learning this)  
-- Best practices for productionizing small AI models
-
----
-
-### 🌱 I’m currently learning
-- Become an OCI Generative AI Professional (course path)  
-- Python for data and AI  
-- Advanced AI foundations and practical workflows
-
----
-
-### 💬 Ask me about
-HTML, CSS, JavaScript, PHP, Java, Visual Basic, MySQL, Oracle SQL, Java file handling and JUnit basics
 
 ---
 
 ### 📫 How to reach me
-<p align="left">
-<a href="https://linkedin.com/in/mphomatseka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mphomatseka" height="30" width="40" /></a>
-<a href="https://fb.com/officialehlersdanlosboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="officialehlersdanlosboy" height="30" width="40" /></a>
-<a href="https://instagram.com/mphomatseka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mphomatseka" height="30" width="40" /></a>
-</p> 
-- Email: ehlersdanlosboy@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mpho%20Matseka-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mphomatseka)
+[![Facebook](https://img.shields.io/badge/Facebook-EDS%20Boy-blue?style=flat&logo=facebook)](https://fb.com/officialehlersdanlosboy)
+[![Instagram](https://img.shields.io/badge/Instagram-@mphomatseka-purple?style=flat&logo=instagram)](https://instagram.com/mphomatseka)
+[![Email](https://img.shields.io/badge/Email-ehlersdanlosboy%40gmail.com-red?style=flat&logo=gmail)](mailto:ehlersdanlosboy@gmail.com)
 
 ---
 
@@ -52,66 +20,95 @@ HTML, CSS, JavaScript, PHP, Java, Visual Basic, MySQL, Oracle SQL, Java file han
 
 ### 🎮 Flappy Bird Clone
 [![GitHub stars](https://img.shields.io/github/stars/edsboys/Flappy-Bird?style=social)](https://github.com/edsboys/Flappy-Bird)
-[![GitHub forks](https://img.shields.io/github/forks/edsboys/Flappy-Bird?style=social)](https://github.com/edsboys/Flappy-Bird)
+[![GitHub forks](https://img.shields.io/github/forks/edsboys/Flappy-Bird?style=social)](https://github.com/edsboys/Flappy-Bird)  
 
-A simple yet challenging arcade-style Java game where you control a bird to navigate obstacles with responsive tap mechanics. Features randomised obstacle generation for endless replayability.
-
-🔗 **Repo:** [github.com/edsboys/Flappy-Bird](https://github.com/edsboys/Flappy-Bird)
+Arcade-style Java game with responsive tap mechanics & randomised obstacles.  
+🔗 [View Repo](https://github.com/edsboys/Flappy-Bird)
 
 ---
 
 ### 🏥 VUT Clinic System
 [![GitHub stars](https://img.shields.io/github/stars/edsboys/vut-clinic-system?style=social)](https://github.com/edsboys/vut-clinic-system)
-[![GitHub forks](https://img.shields.io/github/forks/edsboys/vut-clinic-system?style=social)](https://github.com/edsboys/vut-clinic-system)
+[![GitHub forks](https://img.shields.io/github/forks/edsboys/vut-clinic-system?style=social)](https://github.com/edsboys/vut-clinic-system)  
 
-A modern Laravel-based healthcare management system for the VUT Campus Clinic. Includes appointment booking, service info, and emergency contact details with a responsive Bootstrap design.
-
-🔗 **Repo:** [github.com/edsboys/vut-clinic-system](https://github.com/edsboys/vut-clinic-system)
+Laravel healthcare management system with appointment booking, service information, and emergency contact details — all with a responsive Bootstrap design.  
+🔗 [View Repo](https://github.com/edsboys/vut-clinic-system)
 
 ---
 
 ### 🐍 Classic Snake Game
 [![GitHub stars](https://img.shields.io/github/stars/edsboys/Classic-Snake-Game?style=social)](https://github.com/edsboys/Classic-Snake-Game)
-[![GitHub forks](https://img.shields.io/github/forks/edsboys/Classic-Snake-Game?style=social)](https://github.com/edsboys/Classic-Snake-Game)
+[![GitHub forks](https://img.shields.io/github/forks/edsboys/Classic-Snake-Game?style=social)](https://github.com/edsboys/Classic-Snake-Game)  
 
-A retro Snake game built in Java with Swing GUI. Progressive difficulty, dark mode unlock at 50 apples, smooth controls, and real-time scoring.
-
-🔗 **Repo:** [github.com/edsboys/Classic-Snake-Game](https://github.com/edsboys/Classic-Snake-Game)
-
----
-
-### 🧰 Skills
-
-Programming languages
-- HTML, CSS, JavaScript, PHP, Java, Visual Basic  
-- Learning Python
-
-Frontend
-- HTML, CSS, vanilla JavaScript, responsive layouts
-
-Backend and frameworks
-- PHP, Laravel basics, Java for desktop and assignments
-
-Databases
-- MySQL, Oracle SQL
-
-Testing and Java specifics
-- JUnit basics, Java file handling and serialisation
-
-Other tools
-- Git, GitHub, VS Code, IntelliJ (for Java)
+Retro Java Swing game with progressive difficulty, dark mode unlock at 50 apples, and smooth controls.  
+🔗 [View Repo](https://github.com/edsboys/Classic-Snake-Game)
 
 ---
 
-### 🏅 Certifications
-- Certificate in Full Stack Development, IT Varsity, issued Jul 2025, Credential ID AOTYAA072025  
-- Introduction to Cybersecurity, Cisco, issued Jul 2025  
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate, Oracle, issued Jul 2025, expires Jul 2027  
-- CCNAv7 Introduction to Networks, Cisco, issued Dec 2023
+<details>
+<summary>🧰 Skills</summary>
 
----
+**Languages:**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" height="30" alt="Visual Basic" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
+</div>
 
-### ⚡ Fun fact
-I create content about Ehlers-Danlos Syndrome and raise awareness online
+**Frontend:**  
+<div align ="left"> 
+  <img src = "https://img.icons8.com/?size=100&id=24756&format=png&color=000000" height ="30" alt="Responsive layouts">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+</div>
 
----
+**Backend & Frameworks:**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel" />
+</div>
+
+**Databases:**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle" />
+</div>
+
+**Testing:**  
+<div align="left">
+  <img src="https://img.shields.io/badge/JUnit-testing-blue?logo=JUnit&logoColor=white" height="30" alt="JUnit" />
+</div>
+
+**Tools & IDEs:**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="30" alt="Visual Studio" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
+</div>
+
+</details>
+
+
+<details>
+<summary>🏅 Certifications</summary>
+
+- Full Stack Development — IT Varsity, Jul 2025  
+- Intro to Cybersecurity — Cisco, Jul 2025  
+- OCI 2025 AI Foundations Associate — Oracle, Jul 2025 (expires Jul 2027)  
+- CCNAv7 Intro to Networks — Cisco, Dec 2023  
+</details>
