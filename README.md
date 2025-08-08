@@ -1,14 +1,13 @@
-# Hi 👋, I'm Mpho Matseka
+# Hi 👋, I'm Mpho Matseka  
 
-## Passionate Frontend Developer & Final-Year IT Student at VUT
-I build practical web apps with HTML, CSS, and JavaScript, write backend logic in PHP and Java, and I’m learning Python.  
-I enjoy applying AI techniques to real-world problems, particularly in areas such as fraud detection and document processing.  
-I also raise awareness about Ehlers-Danlos Syndrome on social media.
-
+## 🚀 Passionate Frontend Developer & Final-Year IT Student @ VUT  
+I build **practical web apps** with HTML, CSS, and JavaScript, write backend logic in PHP and Java, and I’m currently learning Python through coursework and personal projects.  
+I’m exploring **AI applications** for fraud detection, document processing, and other real-world challenges.  
+Outside tech, I raise awareness about **Ehlers-Danlos Syndrome** because lived experience fuels my advocacy.  
 
 ---
 
-### 📫 How to reach me
+### 📫 How to reach me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mpho%20Matseka-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mphomatseka)
 [![Facebook](https://img.shields.io/badge/Facebook-EDS%20Boy-blue?style=flat&logo=facebook)](https://fb.com/officialehlersdanlosboy)
 [![Instagram](https://img.shields.io/badge/Instagram-@mphomatseka-purple?style=flat&logo=instagram)](https://instagram.com/mphomatseka)
@@ -16,32 +15,43 @@ I also raise awareness about Ehlers-Danlos Syndrome on social media.
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects  
 
-### 🎮 Flappy Bird Clone
+### 🎮 Flappy Bird Clone  
 [![GitHub stars](https://img.shields.io/github/stars/edsboys/Flappy-Bird?style=social)](https://github.com/edsboys/Flappy-Bird)
 [![GitHub forks](https://img.shields.io/github/forks/edsboys/Flappy-Bird?style=social)](https://github.com/edsboys/Flappy-Bird)  
 
-Arcade-style Java game with responsive tap mechanics & randomised obstacles.  
-🔗 [View Repo](https://github.com/edsboys/Flappy-Bird)
+Arcade-style Java game with:
+- Responsive tap mechanics  
+- Randomised obstacles  
+
+🔗 [View Repo](https://github.com/edsboys/Flappy-Bird)  
 
 ---
 
-### 🏥 VUT Clinic System
+### 🏥 VUT Clinic System  
 [![GitHub stars](https://img.shields.io/github/stars/edsboys/vut-clinic-system?style=social)](https://github.com/edsboys/vut-clinic-system)
 [![GitHub forks](https://img.shields.io/github/forks/edsboys/vut-clinic-system?style=social)](https://github.com/edsboys/vut-clinic-system)  
 
-Laravel healthcare management system with appointment booking, service information, and emergency contact details — all with a responsive Bootstrap design.  
-🔗 [View Repo](https://github.com/edsboys/vut-clinic-system)
+Laravel-based healthcare management platform with:
+- Appointment booking system  
+- Service directory & emergency contacts  
+- Responsive Bootstrap UI  
+
+🔗 [View Repo](https://github.com/edsboys/vut-clinic-system)  
 
 ---
 
-### 🐍 Classic Snake Game
+### 🐍 Classic Snake Game  
 [![GitHub stars](https://img.shields.io/github/stars/edsboys/Classic-Snake-Game?style=social)](https://github.com/edsboys/Classic-Snake-Game)
 [![GitHub forks](https://img.shields.io/github/forks/edsboys/Classic-Snake-Game?style=social)](https://github.com/edsboys/Classic-Snake-Game)  
 
-Retro Java Swing game with progressive difficulty, dark mode unlock at 50 apples, and smooth controls.  
-🔗 [View Repo](https://github.com/edsboys/Classic-Snake-Game)
+Retro Java Swing game featuring:
+- Progressive difficulty levels  
+- Dark mode unlock at 50 apples  
+- Smooth keyboard controls  
+
+🔗 [View Repo](https://github.com/edsboys/Classic-Snake-Game)  
 
 ---
 
@@ -66,11 +76,10 @@ Retro Java Swing game with progressive difficulty, dark mode unlock at 50 apples
 </div>
 
 **Frontend:**  
-<div align ="left"> 
-  <img src = "https://img.icons8.com/?size=100&id=24756&format=png&color=000000" height ="30" alt="Responsive layouts">
+<div align="left">
+  <img src="https://img.icons8.com/?size=100&id=24756&format=png&color=000000" height="30" alt="Responsive Layouts" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
 </div>
 
 **Backend & Frameworks:**  
@@ -101,14 +110,29 @@ Retro Java Swing game with progressive difficulty, dark mode unlock at 50 apples
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
 </div>
 
+**AI/ML Tools:**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="NumPy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
+</div>
+
 </details>
 
+---
 
 <details>
 <summary>🏅 Certifications</summary>
 
-- Full Stack Development — IT Varsity, Jul 2025  
-- Intro to Cybersecurity — Cisco, Jul 2025  
-- OCI 2025 AI Foundations Associate — Oracle, Jul 2025 (expires Jul 2027)  
-- CCNAv7 Intro to Networks — Cisco, Dec 2023  
+- **Full Stack Development** — IT Varsity, Jul 2025  
+- **Intro to Cybersecurity** — Cisco, Jul 2025  
+- **OCI 2025 AI Foundations Associate** — Oracle, Jul 2025 *(expires Jul 2027)*  
+- **CCNAv7 Intro to Networks** — Cisco, Dec 2023  
 </details>
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edsboys&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edsboys&theme=radical)
+
